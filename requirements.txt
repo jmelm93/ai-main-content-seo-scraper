@@ -1,0 +1,13 @@
+# AI
+langchain==0.3.7
+langchain-openai==0.2.6
+
+# Models/Validation
+pydantic==2.9.2
+
+# Utils
+beautifulsoup4==4.12.3
+playwright==1.41.2
+html2text==2024.2.26
+python-dotenv==1.0.1
+lxml==5.3.0

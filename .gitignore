@@ -1,0 +1,44 @@
+archive
+venv
+get_directory_file_context.py 
+combined_docs.txt
+combined_knowledge_generation_docs.txt
+jobs
+test_tools.py
+test_get_main_content.py
+repodoc_generator.py
+output
+
+.pyc
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__/*
+*/__pycache__/
+*/__pycache__/*
+*.py[cod]
+*$py.class
+
+# mac
+.DS_Store
+
+# Other
+.vscode
+*.tsv
+*.pt
+gpt*.txt
+*.env
+local/
+local_*
+# build/
+*.egg-info/
+.idea
+.venv
+
+# Project-specific
+secrets.toml
+*.log
+*/assertion.log
+*results/
+.venv/
