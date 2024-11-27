@@ -1,4 +1,3 @@
-````markdown
 # AI Main Content SEO Scraper
 
 This tool scrapes main content and metadata from URLs, leveraging AI and Playwright for accurate extraction even with JavaScript-heavy websites. It's designed for SEO analysis and content research, providing clean HTML, Markdown, extracted links, and key metadata.
@@ -48,7 +47,6 @@ This tool scrapes main content and metadata from URLs, leveraging AI and Playwri
    git clone https://github.com/your-username/ai-main-content-seo-scraper.git  # Replace with your repo URL
    cd ai-main-content-seo-scraper
    ```
-````
 
 2. **Create a virtual environment (recommended):**
 
